@@ -9,6 +9,7 @@ class CardGame
 
   # TODO 
   def draw_card
+  	@deck[4]
   end
 
 end
