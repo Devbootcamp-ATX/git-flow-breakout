@@ -9,6 +9,7 @@ class CardGame
 
   # TODO 
   def draw_card
+    return @deck[0..2]
   end
 
 end
